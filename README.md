@@ -1,22 +1,29 @@
-# Coding 4 Life and Love - Batch 01
+## C4LL Batch 01 - Coding 4 Life and Love Panti Asuhan Vincentius Putri
 
 ### 1. PROGRAM
+  1. Name:
+    > Coding 4 Life and Love Panti Asuhan Vincentius Putri
+  2. Place:
+    > Jl. Raya Otto Iskandardinata No.76
+    > RT04/RW05 Kampung Melayu, Jatinegara
+    > Jakarta Timur 13330
+    > Indonesia
+  3. Time:
+    > 6-9 months 
 ---
 ### 2. OBJECTIVES
   1. Students can build a ReactJS Website
   2. Students can build a React Native Application
   3. Students can be hired as a Programmer
 ---
-### 3. MEASUREMENT
----
-### 4. CURRICULUM
+### 3. CURRICULUM
   1. HTML
   2. CSS
   3. JavaScript
   4. React JS
   5. React Native
 ---
-### 5. STUDENTS
+### 4. STUDENTS
 |  No | Name                        | LinkedIn | GitHub                 |  Website 	|
 |---	|---	                        |---	|---	                        |---	|
 |  1 	| Alusya Angrini Sitohang   	|   	| [github.com/alusiaangrini](https://github.com/alusiaangrini)   	    | [alusiaangrini.github.io](https://alusiaangrini.github.io) |
