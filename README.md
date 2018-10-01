@@ -40,5 +40,5 @@
 |  12 | Regina Larasati             |   	| [github.com/reginn23](https://github.com/reginn23)      	          | [reginn23.github.io](https://reginn23.github.io) 	|
 |  13 | Regine Lindy Andreina       |   	| [github.com/lindyandreina](https://github.com/lindyandreina)  	    | [lindyandreina.github.io](https://lindyandreina.github.io) 	|
 |  14	| Tayumi Septiyana            |   	| [github.com/tayumi25](https://github.com/tayumi25)       	          | [tayumi25.github.io](https://tayumi25.github.io)  	|
-|  15 | Valentina Ernawati Panjaitan|   	| [github.com/valentinaernawati](https://valentinaernawati)               	                            |   	|
+|  15 | Valentina Ernawati Panjaitan|   	| [github.com/valentinaernawati](https://github.com/valentinaernawati)               	                            | [valentinaernawati.github.io](https://valentinaernawati.github.io)  	|  	|
 |  16 | Valentina Sinaga            |   	| [github.com/stefanivalentina](https:/github.com/stefanivalentina/)  | [stefanivalentina.github.io](https://stefanivalentina.github.io)  	|
