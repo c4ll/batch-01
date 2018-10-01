@@ -1,14 +1,14 @@
 # Coding 4 Life and Love - Batch 01
 
-### PROGRAM
+### 1. PROGRAM
 ---
-### OBJECTIVES
+### 2. OBJECTIVES
 ---
-### CURRICULUM
+### 3. MEASUREMENT
 ---
-### MEASUREMENT
+### 4. CURRICULUM
 ---
-### STUDENTS
+### 6. STUDENTS
 |  No | Name                        | LinkedIn | GitHub                 |  Website 	|
 |---	|---	                        |---	|---	                        |---	|
 |  1 	| Alusya Angrini Sitohang   	|   	| [github.com/alusiaangrini](https://github.com/alusiaangrini)   	    | [alusiaangrini.github.io](https://alusiaangrini.github.io) |
