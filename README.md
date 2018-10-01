@@ -3,10 +3,18 @@
 ### 1. PROGRAM
 ---
 ### 2. OBJECTIVES
+  1. Students can build a ReactJS Website
+  2. Students can build a React Native Application
+  3. Students can be hired as a Programmer
 ---
 ### 3. MEASUREMENT
 ---
 ### 4. CURRICULUM
+  1. HTML
+  2. CSS
+  3. JavaScript
+  4. React JS
+  5. React Native
 ---
 ### 5. STUDENTS
 |  No | Name                        | LinkedIn | GitHub                 |  Website 	|
