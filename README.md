@@ -31,14 +31,14 @@
 |  3 	| Angelia Virgini Tasiam  	  |   	| [github.com/angeliavirgini](https://github.com/angeliavirgini)      | [angeliavirgini.github.io](https://angeliavirgini.github.io)  	|
 |  4 	| Angelina Indriyani Komariah |   	| [github.com/Angelinaindri](https://github.com/Angelinaindri)  	    | [Angelinaindri.github.io](https://Angelinaindri.github.io)  	|
 |  5	| Antonia Aknes             	|   	| [github.com/antoniatonia](https://github.com/antoniatonia)  	      | [antoniatonia.github.io](https://antoniatonia.github.io)  	|
-|  6 	| Delina                    	|   	| [github.com/teresadelina](https://github.com/teresadelina)  	      | [teresadelina.github.io](https://teresadelina.github.io)  	|
-|  7 	| Khoirunnisah Z. Ishak     	|   	| [github.com/khoirunnisahzi](https://github.com/khoirunnisahzi)      | [khoirunnisahzi.github.io](https://khoirunnisahzi.github.io)  	|
+|  6 	| Delina Manurung             |   	| [github.com/teresadelina](https://github.com/teresadelina)  	      | [teresadelina.github.io](https://teresadelina.github.io)  	|
+|  7 	| Khoirunnisah Zelafehad Ishak     	|   	| [github.com/khoirunnisahzi](https://github.com/khoirunnisahzi)      | [khoirunnisahzi.github.io](https://khoirunnisahzi.github.io)  	|
 |  8	| Maria Fatima  	            |   	| [github.com/marfat1512](https://github.com/marfat1512)  	          | [marfat1512.github.io](https://marfat1512.github.io)  	|
 |  9 	| Maria Rossa Devita        	|   	| [github.com/ochadevita](https://github.com/ochadevita)  	          | [ochadevita.github.io](https://ochadevita.github.io)  	|
-|  10 | Mechtildis Ariesta FMK    	|   	| [github.com/ariestakezi](https://github.com/ariestakezi)  	        | [ariestakezi.github.io](https://ariestakezi.github.io)  	|
-|  11	| Princess Ruth Pricilla      |   	| [github.com/princessruth](https://github.com/princessruth)  	      | [princessruth.github.io](https://princessruth.github.io)  	|
-|  12 | Regina Larasita             |   	| [github.com/reginn23](https://github.com/reginn23)      	          | [reginn23.github.io](https://reginn23.github.io) 	|
-|  13 | Regine Lindy                |   	| [github.com/lindyandreina](https://github.com/lindyandreina)  	    | [lindyandreina.github.io](https://lindyandreina.github.io) 	|
-|  14	| Tayumi                      |   	| [github.com/tayumi25](https://github.com/tayumi25)       	          | [tayumi25.github.io](https://tayumi25.github.io)  	|
-|  15 | Valentina Ernawati P        |   	| [github.com/](https://)               	                            |   	|
+|  10 | Mechtildis Ariesta Florentina Mina Kezi    	|   	| [github.com/ariestakezi](https://github.com/ariestakezi)  	        | [ariestakezi.github.io](https://ariestakezi.github.io)  	|
+|  11	| Princess Ruth Priccilia      |   	| [github.com/princessruth](https://github.com/princessruth)  	      | [princessruth.github.io](https://princessruth.github.io)  	|
+|  12 | Regina Larasati             |   	| [github.com/reginn23](https://github.com/reginn23)      	          | [reginn23.github.io](https://reginn23.github.io) 	|
+|  13 | Regine Lindy Andreina       |   	| [github.com/lindyandreina](https://github.com/lindyandreina)  	    | [lindyandreina.github.io](https://lindyandreina.github.io) 	|
+|  14	| Tayumi Septiyana            |   	| [github.com/tayumi25](https://github.com/tayumi25)       	          | [tayumi25.github.io](https://tayumi25.github.io)  	|
+|  15 | Valentina Ernawati Panjaitan|   	| [github.com/valentinaernawati](https://valentinaernawati)               	                            |   	|
 |  16 | Valentina Sinaga            |   	| [github.com/stefanivalentina](https:/github.com/stefanivalentina/)  | [stefanivalentina.github.io](https://stefanivalentina.github.io)  	|
