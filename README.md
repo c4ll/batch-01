@@ -8,7 +8,7 @@
 ---
 ### 4. CURRICULUM
 ---
-### 6. STUDENTS
+### 5. STUDENTS
 |  No | Name                        | LinkedIn | GitHub                 |  Website 	|
 |---	|---	                        |---	|---	                        |---	|
 |  1 	| Alusya Angrini Sitohang   	|   	| [github.com/alusiaangrini](https://github.com/alusiaangrini)   	    | [alusiaangrini.github.io](https://alusiaangrini.github.io) |
