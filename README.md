@@ -31,7 +31,7 @@
 |  3 	| Angelia Virgini Tasiam  	  |   	| [github.com/angeliavirgini](https://github.com/angeliavirgini)      | [angeliavirgini.github.io](https://angeliavirgini.github.io)  	|
 |  4 	| Angelina Indriyani Komariah |   	| [github.com/Angelinaindri](https://github.com/Angelinaindri)  	    | [Angelinaindri.github.io](https://Angelinaindri.github.io)  	|
 |  5	| Antonia Aknes             	|   	| [github.com/antoniatonia](https://github.com/antoniatonia)  	      | [antoniatonia.github.io](https://antoniatonia.github.io)  	|
-|  6 	| Delina Manurung             |   	| [github.com/teresadelina](https://github.com/teresadelina)  	      | [teresadelina.github.io](https://teresadelina.github.io)  	|
+|  6 	| Delina                      |   	| [github.com/teresadelina](https://github.com/teresadelina)  	      | [teresadelina.github.io](https://teresadelina.github.io)  	|
 |  7 	| Khoirunnisah Zelafehad Ishak     	|   	| [github.com/khoirunnisahzi](https://github.com/khoirunnisahzi)      | [khoirunnisahzi.github.io](https://khoirunnisahzi.github.io)  	|
 |  8	| Maria Fatima  	            |   	| [github.com/marfat1512](https://github.com/marfat1512)  	          | [marfat1512.github.io](https://marfat1512.github.io)  	|
 |  9 	| Maria Rossa Devita        	|   	| [github.com/ochadevita](https://github.com/ochadevita)  	          | [ochadevita.github.io](https://ochadevita.github.io)  	|
