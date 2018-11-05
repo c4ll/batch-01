@@ -2,14 +2,14 @@
 
 ### 1. PROGRAM
   1. Name:
-    > Coding 4 Life and Love Panti Asuhan Vincentius Putri
+      > Coding 4 Life and Love Panti Asuhan Vincentius Putri
   2. Place:
-    > Jl. Raya Otto Iskandardinata No.76
-    > RT04/RW05 Kampung Melayu, Jatinegara
-    > Jakarta Timur 13330
-    > Indonesia
+      > Jl. Raya Otto Iskandardinata No.76
+      > RT04/RW05 Kampung Melayu, Jatinegara
+      > Jakarta Timur 13330
+      > Indonesia
   3. Time:
-    > 6-9 months 
+      > 6-9 months 
 ---
 ### 2. OBJECTIVES
   1. Students can build a ReactJS Website
