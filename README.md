@@ -27,7 +27,7 @@
 |  No | Name                        | LinkedIn | GitHub                 |  Website 	|
 |---	|---	                        |---	|---	                        |---	|
 |  1 	| Alusya Angrini Sitohang   	| [in/alusyaangrini](https://www.linkedin.com/in/alusyaangrini)  	| [github.com/alusiaangrini](https://github.com/alusiaangrini)   	    | [alusiaangrini.github.io](https://alusiaangrini.github.io) |
-|  2	| Angel Susan Sugiana        	| [in/angelsusan](https://www.linkedin.com/in/angelsusan)  	| [github.com/angelsusan](https://github.com/angelsusan)  	          | [angelsusan.github.io](https://angelsusan.github.io)  	|
+|  2	| Angel Susan Sugiana        	|   	| [github.com/angelsusan](https://github.com/angelsusan)  	          | [angelsusan.github.io](https://angelsusan.github.io)  	|
 |  3 	| Angelia Virgini Tasiam  	  | [in/angeliavirgini](https://www.linkedin.com/in/angeliavirgini)  	| [github.com/angeliavirgini](https://github.com/angeliavirgini)      | [angeliavirgini.github.io](https://angeliavirgini.github.io)  	|
 |  4 	| Angelina Indriyani Komariah | [in/angellicaindriyani](https://www.linkedin.com/in/angellicaindriyani)  	| [github.com/Angelinaindri](https://github.com/Angelinaindri)  	    | [Angelinaindri.github.io](https://Angelinaindri.github.io)  	|
 |  5	| Antonia Aknes             	| [in/antoniaaknes](https://www.linkedin.com/in/antoniaaknes)  	| [github.com/antoniatonia](https://github.com/antoniatonia)  	      | [antoniatonia.github.io](https://antoniatonia.github.io)  	|
