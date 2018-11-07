@@ -42,3 +42,12 @@
 |  14	| Tayumi Septiyana            | [in/tayumifenty](https://www.linkedin.com/in/tayumifenty)  	| [github.com/tayumi25](https://github.com/tayumi25)       	          | [tayumi25.github.io](https://tayumi25.github.io)  	|
 |  15 | Valentina Ernawati Panjaitan| [in/valentinaernawati](https://www.linkedin.com/in/valentinaernawati)  	| [github.com/valentinaernawati](https://github.com/valentinaernawati)               	                            | [valentinaernawati.github.io](https://valentinaernawati.github.io)  	|  	|
 |  16 | Valentina Sinaga            | [in/stefanivalentina](https://www.linkedin.com/in/stefanivalentina)  	| [github.com/stefanivalentina](https:/github.com/stefanivalentina/)  | [stefanivalentina.github.io](https://stefanivalentina.github.io)  	|
+
+---
+### 5. ASSISTANTS
+|  No | Name                        | LinkedIn | GitHub                 |  Website 	|
+|---	|---	                        |---	|---	                        |---	|
+|  1 	| Andy Pujihandoko   	| [in/andypujihandoko](https://www.linkedin.com/in/andypujihandoko)  	| [github.com/andypujihandoko](https://github.com/andypujihandoko)   	    | [andypujihandoko.github.io](https://andypujihandoko.github.io) |
+|  2 	| Juli Yanti   	| [in/andypujihandoko](https://www.linkedin.com/in/andypujihandoko)  	| [github.com/andypujihandoko](https://github.com/andypujihandoko)   	    | [andypujihandoko.github.io](https://andypujihandoko.github.io) |
+|  3 	| Kezia Friskadina   	| [in/keziafriskadina](https://www.linkedin.com/in/keziafriskadina)  	| [github.com/keziafriskadina](https://github.com/keziafriskadina)   	    | [keziafriskadina.github.io](https://keziafriskadina.github.io) |
+|  4 	| Suci Andayani   	| [in/suciandayani](https://www.linkedin.com/in/suciandayani)  	| [github.com/suciandayani](https://github.com/suciandayani)   	    | [suciandayani.github.io](https://suciandayani.github.io) |
