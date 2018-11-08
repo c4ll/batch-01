@@ -48,6 +48,6 @@
 |  No | Name                        | LinkedIn | GitHub                 |  Website 	|
 |---	|---	                        |---	|---	                        |---	|
 |  1 	| Andy Pujihandoko   	| [in/andypujihandoko](https://www.linkedin.com/in/andypujihandoko)  	| [github.com/andypujihandoko](https://github.com/andypujihandoko)   	    | [andypujihandoko.github.io](https://andypujihandoko.github.io) |
-|  2 	| Juli Yanti   	| [in/juleshwa](https://www.linkedin.com/in/juleshwa) 	| [juleshwa.github.io](https://juleshwa.github.io)	    |  |
+|  2 	| Juli Yanti   	| [in/juleshwa](https://www.linkedin.com/in/juleshwa) 	| [github.com/juleshwa](https://github.com/juleshwa) 	    | [juleshwa.github.io](https://juleshwa.github.io) |
 |  3 	| Kezia Friskadina   	| [in/keziafriskadina](https://www.linkedin.com/in/keziafriskadina)  	| [github.com/keziafriskadina](https://github.com/keziafriskadina)   	    | [keziafriskadina.github.io](https://keziafriskadina.github.io) |
 |  4 	| Suci Andayani   	| [in/suciandayani](https://www.linkedin.com/in/suciandayani)  	| [github.com/suciandayani](https://github.com/suciandayani)   	    | [suciandayani.github.io](https://suciandayani.github.io) |
